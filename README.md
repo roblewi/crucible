@@ -1,2 +1,2 @@
-# crucible
+# Crucible
 Interactive crossword solver
